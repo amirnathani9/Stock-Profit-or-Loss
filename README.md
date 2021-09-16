@@ -6,11 +6,11 @@ The output will show the profit and loss in Percentage and Absolute value.
 
 ## How to Use 
 
-1.Enter the initial stock price
-2.Enter the Quantity of Stock
-3.Enter the current stock price
-4.Click the button
-5.Output will shown below the button
+1. Enter the initial stock price
+2. Enter the Quantity of Stock
+3. Enter the current stock price
+4. Click the button
+5. Output will shown below the button
 
 
 ## Programming Language
@@ -19,12 +19,9 @@ The output will show the profit and loss in Percentage and Absolute value.
 2. Css
 3. Javascript
 
-
-## Snapshot of the App
-<img src="stock image.png">
-
-
 ## Link of the webApp
 
 [https://stockprofitloss-mark14.netlify.app/](https://stockprofitloss-mark14.netlify.app/)
+
+Don't forget to leave a ⭐ if you found this useful.
 
